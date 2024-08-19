@@ -16,9 +16,10 @@ My academic journey is steered towards **AI** and **Visual Computing**, reflecti
   "name": "Gloria Shin",
   "located_in": "Salt Lake City, UT",
   "from": "South Korea",
-  "title": "A junior majoring in Computer Science @ University of Utah",
+  "title": "A senior majoring in Computer Science @ University of Utah",
   "fields_of_interests": ["AI", "Visual Computing", "VR/AR"],
-  "skills": ["C++", "C#", "Java", "Python", "SQL", "GIT", "Docker", "Linux", "Arduino", "etc."],
+  "skills": ["C/C++", "C#", "Java", "Python", "HTML", "CSS", "Angular", "JavaScript", "SQL", "GIT", "Docker", "Linux", "Arduino", "etc."],
+  "experience": ["UIT Software Engineer Intern - University of Utah, University Support Services (March 2024 ~)"],
   "projects": ["Asia Travel Guide", "Glowy Shark", "Sprite Editor", "Agario", "Web Server", "Simon Game", "Chat Server"],
   "hobbies": ["Drawing", "Cinema", "Competitive Gaming"]
 }
