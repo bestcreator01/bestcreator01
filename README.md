@@ -18,9 +18,9 @@ My academic journey is steered towards **Visual Computing**, reflecting my enthu
   "from": "South Korea",
   "title": "A senior majoring in Computer Science @ University of Utah",
   "fields_of_interests": ["AI", "Visual Computing", "VR/AR"],
-  "skills": ["C/C++", "C#", "Java", "Python", "HTML", "CSS", "Angular", "JavaScript", "SQL", "GIT", "Docker", "Linux", "Arduino", "etc."],
+  "skills": ["C/C++", "C#", "Java", "Python", "HTML", "CSS", "Angular", "TypeScript", "SQL", "GIT", "Docker", "Linux", "Arduino", "etc."],
   "experience": ["UIT Software Engineer Intern - University of Utah, University Support Services (March 2024 ~)"],
-  "projects": ["Asia Travel Guide", "Glowy Shark", "Sprite Editor", "Agario", "Web Server", "Simon Game", "Chat Server"],
+  "projects": ["Asia Travel Guide", "Glowy Shark", "Sprite Editor", "Agario", "etc."],
   "hobbies": ["Drawing", "Cinema", "Competitive Gaming"]
 }
 ```
