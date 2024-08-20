@@ -6,7 +6,7 @@
 
 
 I'm **Gloria**, a passionate Computer Science senior at the University of Utah, all the way from the vibrant landscapes of Korea. 
-My academic journey is steered towards **AI** and **Visual Computing**, reflecting my enthusiasm for programming and innovative technology solutions.
+My academic journey is steered towards **Visual Computing**, reflecting my enthusiasm for programming and innovative technology solutions.
 
 
 ![GloriaShinBanner](https://github.com/bestcreator01/bestcreator01/assets/122410772/a30518d1-475e-41f0-a658-fd270992258e)
