@@ -46,6 +46,18 @@ My academic journey is steered towards **Visual Computing**, reflecting my enthu
 
 
 
+#### **Mirror, Mirror**
+![Screenshot 2025-01-10 000205](https://github.com/user-attachments/assets/e5f6a4f4-8447-4b61-89d6-c9a9add3efe2)
+
+
+
+
+#### 🦈 **Hide and Seek**
+![9g7mt2 (1)](https://github.com/user-attachments/assets/4bb37d66-b417-42bb-998b-6c46c4d2b341)
+
+
+
+
 #### 🎮 **Agario**
 
 ![Untitledvideo-MadewithClipchamp2-ezgif com-video-to-gif-converter](https://github.com/bestcreator01/bestcreator01/assets/122410772/e952ce0e-0ef8-4d27-9e52-89aba7453ce1)
