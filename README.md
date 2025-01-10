@@ -46,7 +46,7 @@ My academic journey is steered towards **Visual Computing**, reflecting my enthu
 
 
 
-#### **Mirror, Mirror**
+#### 👑 **Mirror, Mirror**
 ![Screenshot 2025-01-10 000205](https://github.com/user-attachments/assets/e5f6a4f4-8447-4b61-89d6-c9a9add3efe2)
 
 
