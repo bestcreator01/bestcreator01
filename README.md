@@ -16,17 +16,23 @@ My academic journey is steered towards **Visual Computing**, reflecting my enthu
   "name": "Gloria Shin",
   "located_in": "Salt Lake City, UT",
   "from": "South Korea",
-  "title": "A senior majoring in Computer Science @ University of Utah",
+  "title": "A senior majoring in Computer Science & Software Engineering Intern @ University of Utah",
   "fields_of_interests": ["AI", "Visual Computing", "VR/AR"],
-  "skills": ["C/C++", "C#", "Java", "Python", "HTML", "CSS", "Angular", "TypeScript", "SQL", "GIT", "Docker", "Linux", "Arduino", "etc."],
+  "skills": ["C/C++", "C#", "Java", "Python", "OpenGL(GLSL)", "HTML", "CSS", "Angular", "TypeScript", "SQL", "GIT", "Docker", "Linux", "Arduino", "etc."],
   "experience": ["UIT Software Engineer Intern - University of Utah, University Support Services (March 2024 ~)"],
-  "projects": ["WakeUpWars", "Mirror, mirror", "Asia Travel Guide", "Glowy Shark", "Sprite Editor", "Agario", "etc."],
+  "projects": ["WakeUpWars", "Real-Time Particle-Based Smoke System", "Mirror, mirror", "Asia Travel Guide", "Glowy Shark", "Sprite Editor", "Agario", "etc."],
   "hobbies": ["Drawing", "Cinema", "Competitive Gaming"]
 }
 ```
 
 
 ### 🔭 Projects Overview
+#### 💨 **Real-Time Particle-Based Smoke System**
+
+![SmokeRendering_GloriaShin-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/553bfba1-9920-48da-9578-4ce8cb6587f4)
+
+
+
 
 #### 🎨 **Sprite Editor**
 
