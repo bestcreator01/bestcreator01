@@ -5,7 +5,7 @@
 ### 👤 About Me
 
 
-I'm **Gloria**, a passionate Computer Science senior at the University of Utah, all the way from the vibrant landscapes of Korea. 
+I'm **Gloria**, a recent Computer Science graduate from the University of Utah, all the way from the vibrant landscapes of Korea. 
 My academic journey is steered towards **Visual Computing**, reflecting my enthusiasm for programming and innovative technology solutions.
 
 
